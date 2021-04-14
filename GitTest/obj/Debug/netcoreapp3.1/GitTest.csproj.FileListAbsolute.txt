@@ -1,0 +1,13 @@
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.exe
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.deps.json
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.json
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.dev.json
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.dll
+C:\Work\TestGit\GitTest\GitTest\bin\Debug\netcoreapp3.1\GitTest.pdb
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.csprojAssemblyReference.cache
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfoInputs.cache
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfo.cs
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.csproj.CoreCompileInputs.cache
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.dll
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.pdb
+C:\Work\TestGit\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.genruntimeconfig.cache
